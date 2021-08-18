@@ -15,7 +15,8 @@ Detects hand and returns an emoji based on hand symbol. Can be used to detect ov
  
 
 
-![Project Image](./Desktop/test.png)
+ ![alt text](http://url/to/test.png)
+
 
 
 [Back To The Top](#Portfolio)
