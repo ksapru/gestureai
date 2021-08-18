@@ -15,7 +15,7 @@ Detects hand and returns an emoji based on hand symbol. Can be used to detect ov
  
 
 
-![Project Image]([Uploading Screen Shot 2021-08-18 at 3.46.34 PM.png…])
+![Project Image](./Desktop/test.png)
 
 
 [Back To The Top](#Portfolio)
